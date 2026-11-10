@@ -8,7 +8,7 @@ Needed a way to use Gboard with voice typing fully offline and native. Couldn't 
 - probably wont update this any further unless something breaks for me
 - build on Gboard gboard-18-6-3-1002251336-release-arm64-v8a. Feel free to fork and improve it
 - can disable internet access to the app after model is downloaded
-- I tried getting claude to build the native Advanced Voice Typing feature, but it stopped due to "safety" 🙄:
+- I tried getting claude to build the native Advanced Voice Typing feature, but it stopped due to "safety" 🙄. Same feature found here: https://www.youtube.com/watch?v=R1zCuqG2mvc
 
 **INSTALL INSTRUCTIONS:**
 1. Download from releases
