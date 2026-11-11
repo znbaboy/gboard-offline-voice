@@ -1,6 +1,9 @@
 # gboard-offline-voice
 Morphe patch to manually download offline Google "fast typing" voice model. No Gapps required. 100% vibe coded with Claude Opus 5.5
 
+
+ADVANCED VOICE TYPING RELEASE: https://github.com/znbaboy/gboard-offline-voice/releases/tag/experimental
+
 Needed a way to use Gboard with voice typing fully offline and native. Couldn't find a solution so I AI slopped one out.
 
 **NOTES:**
