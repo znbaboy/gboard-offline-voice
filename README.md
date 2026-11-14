@@ -22,8 +22,7 @@ Needed a way to use Gboard with voice typing fully offline and native. Couldn't 
 - Experimental network filter. Not a guaranteed block. For that, turn off Gboard's network in Android settings. Voice typing still works, since Speech Services does the recognition on the phone.
 
 **Install:**
-1. Install Speech Services by Google (unpatched).
-2. Download the .mpp from Releases, import it in Morphe Manager, and patch Gboard.
-3. Gboard Settings → Voice typing → Advanced voice typing, follow the steps.
+1. Download the .mpp from Releases, import it in Morphe Manager, and patch Gboard.
+2. Gboard Settings → Voice typing → Advanced voice typing, follow the steps.
 
 https://github.com/user-attachments/assets/f3d08477-0eed-48c4-ac72-6935d5a9dd3a
