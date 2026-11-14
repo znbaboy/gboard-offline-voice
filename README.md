@@ -2,7 +2,7 @@
 
 ## ADVANCED VOICE TYPING RELEASED: https://github.com/znbaboy/gboard-offline-voice/releases
 
-Morphe patch to manually download offline Google "fast typing" voice model. No Gapps required. 100% vibe coded with Claude Opus 5.5
+Morphe patch to manually download offline Google "advanced voice typing" voice model. No Gapps required. 100% vibe coded with Opus 5.5
 
 Needed a way to use Gboard with voice typing fully offline and native. Couldn't find a solution so I AI slopped one out.
 
@@ -11,14 +11,19 @@ Needed a way to use Gboard with voice typing fully offline and native. Couldn't 
 - probably wont update this any further unless something breaks for me
 - build on Gboard gboard-18-6-3-1002251336-release-arm64-v8a. Feel free to fork and improve it
 - can disable internet access to the app after model is downloaded
-- ~I tried getting claude to build the native Advanced Voice Typing feature, but it stopped due to "safety" 🙄. Same feature found here: https://www.youtube.com/watch?v=R1zCuqG2mvc~
 
-**INSTALL INSTRUCTIONS:**
-1. Download from releases
-2. Import as source in Morphe
-3. Patch Gboard app
+**Features:**
+- Offline advanced voice typing (Google's server recognizer blocked)
+- Setup screen: Voice typing → Advanced voice typing
+- Voice typing in incognito (switch)
+- Keep other audio playing while dictating (switch)
+- Online features hidden (stickers, Emoji Kitchen, Translate, writing tools, usage sharing)
+- GIF search switch (off by default)
+- Experimental network filter. Not a guaranteed block. For that, turn off Gboard's network in Android settings. Voice typing still works, since Speech Services does the recognition on the phone.
 
-**DOWNLOADING VOICE MODEL:**
-1. Navigate to Gboard settings > Voice typing > Offline voice model
+**Install:**
+1. Install Speech Services by Google (unpatched).
+2. Download the .mpp from Releases, import it in Morphe Manager, and patch Gboard.
+3. Gboard Settings → Voice typing → Advanced voice typing, follow the steps.
 
-<img width="819" height="846" alt="image" src="https://github.com/user-attachments/assets/209a8ae6-3846-4eed-819c-f52be2736c11" />
+https://github.com/user-attachments/assets/f3d08477-0eed-48c4-ac72-6935d5a9dd3a
