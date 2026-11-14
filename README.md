@@ -1,6 +1,6 @@
 # gboard-offline-voice
 
-## ADVANCED VOICE TYPING RELEASED: https://github.com/znbaboy/gboard-offline-voice/releases/tag/build2
+## ADVANCED VOICE TYPING RELEASED: https://github.com/znbaboy/gboard-offline-voice/releases
 
 Morphe patch to manually download offline Google "fast typing" voice model. No Gapps required. 100% vibe coded with Claude Opus 5.5
 
